@@ -1,3 +1,3 @@
-print("AgroGest - Sistema de Gestão Agrícola")
-print("Sistema em desenvolvimento")
-print("Cadastro de propriedades disponível")
+AgroGest - Sistema de Gestão Agrícola
+Sistema em desenvolvimento
+Cadastro de propriedades disponível
